@@ -1,0 +1,9 @@
+.layout {
+  @apply flex flex-col min-h-[100vh] overflow-x-hidden;
+}
+.layout > *:nth-child(odd) {
+  @apply p-4 bg-gray-300;
+}
+.layout > .main {
+  @apply flex-grow;
+}
