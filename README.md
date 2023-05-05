@@ -3,6 +3,6 @@
 ## Tasks
 
 #### *David:*
-    [x] create rootKit project
+- [x] create rootKit project
 #### *Parham:*
-    [ ] Route Project 
+- [ ] Route Project 
